@@ -1,0 +1,22 @@
+{
+    "name": "Заметки",
+    "short_name": "Заметки",
+    "description": "Заметки с оффлайн доступом",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        "src": "icons/set.png",
+        "sizes": "981x974",
+        "type": "image/png"
+      },
+      {
+        "src": "icons/wwwicon.png",
+        "sizes": "1370x1422",
+        "type": "image/png"
+      }
+    ]
+  }
+  
